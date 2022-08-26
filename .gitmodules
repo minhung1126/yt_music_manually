@@ -1,0 +1,3 @@
+[submodule "yt_music_core"]
+	path = yt_music_core
+	url = https://github.com/minhung1126/yt_music_core
